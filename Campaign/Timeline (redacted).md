@@ -7,7 +7,7 @@ Those aware of the past tend to split the calendar into two time periods; Before
 **6.2 BE:** ?
 **4 BE:** The Urzithans make a deal with [[Gorgoborymos]] to create the [[Bloodwake]], allowing [[Fiend|Devils]] to pour forth and take over [[Eberhar]].
 **3 BE:** ?
-**0.6 BE:** The [[Triumvirate]] give Skofnildr a novel technological device they built themselves. This drives him insane and allows them to join the war in earnest, devastating the Stålråd.
+**0.6 BE:** The [[Triumvirate]] give [Skofnildr] a novel technological device they built themselves. This drives him insane and allows them to join the war in earnest, devastating the Stålråd.
 **0.4 BE:** The Stalrad enact [[Operation Oblivion]], annihilating every other civilization on the planet to deprive the Triumvirate of power.
 **1 AE:** The war ends.
 **1.2 AE:** ?
