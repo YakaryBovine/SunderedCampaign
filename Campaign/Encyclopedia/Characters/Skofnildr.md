@@ -4,7 +4,7 @@ He is a hulking, shuffling mass of haphazard technology in the shape of a man, f
 ## The Conductor
 You first met Skofnildr, in his capacity as a train conductor, when you boarded the Valdishal Grand Line. Upon departure, his "eternal nightmare" trapped you in a twelve minute time loop which always ended in the train exploding at the hands of sabotage. In the final loop, you dealt with the saboteurs, and arrived at your destination.
 ## The Betrayed
-You learned Skofnildr's true nature when you [reached the bottom secret floor](The Fourth Sect) of a factory housing a forgotten chapter house of the Fourth Sect. Metal-engraved murals on the walls spun the story of his origin, retold below...
+You learned Skofnildr's true nature when you [[The Fourth Sect|reached the bottom secret floor]] of a factory housing a forgotten chapter house of the Fourth Sect. Metal-engraved murals on the walls spun the story of his origin, retold below...
 
 >Long ago, before civilization, a small girl invented the first piece of technology made without divine assistance: a Levallois core. The Spirits were fascinated.
 >
@@ -24,6 +24,6 @@ You met a simulacrum of Skofnildr at the end of the muralled hallway, and you ga
 ## The Madman
 You returned to Skofnildr at the Valdishal Grand Line, and delved within his beard to reach his divine realm, Null Storage. You persisted through the realm's technological dangers to reach the epicenter, a crash site where the device had fallen. There, Skofnildr in his maddened state tried to intervene, begging you not to destroy the device. You reached the center and disassembled it, freeing Skofnildr of his insanity.
 ## The God
-Now of clear mind, Skofnildr took you aboard the Valdishal Grand Line and drove you through the earth, the ocean, and orbit. There, he showed you that the Stalrad high command [[was still alive on the far side of the moon|Iron Moon]], and that they would awaken in time. He also showed you that [[Divine Ebb|divine magic is no longer being replenished]]. He then returned you to Hospice, where you discovered from above that a great ash storm was now covering the southern Shattered Expanse.
+Now of clear mind, Skofnildr took you aboard the Valdishal Grand Line and drove you through the earth, the ocean, and orbit. There, he showed you that the Stalrad high command [[Iron Moon|was still alive on the far side of the moon]], and that they would awaken in time. He also showed you that [[Divine Ebb|divine magic is no longer being replenished]]. He then returned you to Hospice, where you discovered from above that a great ash storm was now covering the southern Shattered Expanse.
 
 Before you left, he handed you a train whistle which you could use to summon Skofnildr and the Valdishal Grand Line to your location.
