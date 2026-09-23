@@ -3,7 +3,7 @@
 > As the first session of the game, the premise was pre-established by the Game Master and communicated to the players in advance. After this, players will have more autonomy in deciding what risks to take next. 
 
 **Premise**
-Every few months, the [[Sunlancer]], a great golden sphere hovering above the [[Shattered Expanse]], finishes gathering a pool of prayer energy and unleashes it as an immense pillar of divine flames against a particular spot on the ground. In doing so, it opens up the entrance to [[Forsyning]], an ancient [[Stålråd]] supply depot.
+Every few months, the [[Sunlancer]], a great golden sphere hovering above the [[Shattered Expanse]], finishes gathering a pool of prayer energy and unleashes it as an immense pillar of [[divine]] flames against a particular spot on the ground. In doing so, it opens up the entrance to [[Forsyning]], an ancient [[Stålråd]] supply depot.
 
 The party has heard of this occurrence through rumours and legend, and have arrived at the soon-to-be-entrance to the depot, ready to dive in and plunder its riches.
 
