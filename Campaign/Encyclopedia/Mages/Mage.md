@@ -1,0 +1,3 @@
+A mage is a catch-all term for any human capable of manipulating the forces of reality through the intentional use of magic. The word does not cover magical beasts capable of using magic intrinsically, spirits who are intrinsically magical, or enchanted individuals who benefit from magic but who do not employ it consciously.
+
+Those with an elevated knowledge of magic, such as most Urzithans, are unlikely to use the generic term "mage", preferring more specific designations like "wizard" or "warlock".

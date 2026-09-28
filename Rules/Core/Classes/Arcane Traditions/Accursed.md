@@ -3,7 +3,7 @@ The Accursed are those men and women who have made pacts with otherworldly being
 > [!important] Sundered
 > In the [[Sundered]] universe, the Accursed class represents a [[Warlock]] who has successfully made a bargain with a [[Fiend]].
 ### Benefits of the Accursed
-The Accursed is a partial [[Mage]] class that must be joined with a second partial class by an [[Adventurer]]. A Partial [[Warrior]]/Accursed might be a grim demonic warrior, a Partial Expert/Accursed might be a sinister tempter, while a Partial Mage/Accursed could be a sorcerer willing to pact with foul creatures for their powers. 
+The Accursed is a partial [[Rules/Core/Classes/Mage]] class that must be joined with a second partial class by an [[Adventurer]]. A Partial [[Warrior]]/Accursed might be a grim demonic warrior, a Partial Expert/Accursed might be a sinister tempter, while a Partial Mage/Accursed could be a sorcerer willing to pact with foul creatures for their powers. 
 
 All Accursed gain [[Skills|Magic-0]] during character creation. Even those who are not spellcasters must understand the ways of eldritch beings and the subtleties of sorcery. 
 

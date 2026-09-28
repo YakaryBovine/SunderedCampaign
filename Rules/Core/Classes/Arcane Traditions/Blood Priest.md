@@ -3,7 +3,7 @@ As the devotee of a sanguinary god, a blood priest has magical powers for streng
 > [!important] Sundered
 > In the [[Sundered]] universe, the Blood Priest can be used to represent either a [[Paladin]] or [[Cleric]] character concept.
 ## Blood Priest Benefits
-The Blood Priest exists only as a partial [[Mage]] class, to be taken by an [[Adventurer]] alongside another partial class. A Partial [[Warrior]]/Blood Priest might be a crusader for their god, wielding steel and terror against the evils of this world. A Partial [[Expert]]/Blood Priest might be an inquisitor, investigating dubious figures and sifting out the truth of mysterious events.
+The Blood Priest exists only as a partial [[Rules/Core/Classes/Mage]] class, to be taken by an [[Adventurer]] alongside another partial class. A Partial [[Warrior]]/Blood Priest might be a crusader for their god, wielding steel and terror against the evils of this world. A Partial [[Expert]]/Blood Priest might be an inquisitor, investigating dubious figures and sifting out the truth of mysterious events.
 
 All Blood Priests get 2 bonus [[Character Creation#6. Choose your Skills|skill points]], which they must spend on Pray if they can. Even a “Blood Priest” who has only learned their abilities through study of their scriptures must master a wide variety of ecclesiastical rites and rituals in order to activate their powers.
 ## Arts

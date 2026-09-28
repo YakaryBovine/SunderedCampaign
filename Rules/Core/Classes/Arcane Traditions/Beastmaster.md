@@ -3,7 +3,7 @@ Beastmasters are those PCs with an unnatural ability to control and influence an
 > [!important] Sundered
 > In the [[Sundered]] universe, the Beastmaster class represents a [[Shaman]] who has bound one or more lesser [[Eidolon|Eidolons]]. Your character doesn't have to think of themselves as a Shaman, however.
 ## Beastmaster Benefits
-The Beastmaster exists only as a partial [[Mage]] class, meant to be taken by an Adventurer along with another partial class. A Partial [[Warrior]]/Beastmaster may be a savage barbarian or wood-wise ranger, while a Partial [[Expert]]/Beastmaster might be a masterful hunter or zoologist. 
+The Beastmaster exists only as a partial [[Rules/Core/Classes/Mage]] class, meant to be taken by an Adventurer along with another partial class. A Partial [[Warrior]]/Beastmaster may be a savage barbarian or wood-wise ranger, while a Partial [[Expert]]/Beastmaster might be a masterful hunter or zoologist. 
 
 All Beastmasters get 2 bonus [[Character Creation#6. Choose your Skills|skill points]], which they must spend on Survive if they can. The amount of time they spend in the wilderness learning of its ways can’t help but teach them how to survive in hard conditions and navigate the perils of an untamed land.
 ## Beastmaster Companions

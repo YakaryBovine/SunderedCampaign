@@ -2,7 +2,7 @@ The party may find it useful to employ temporary labor in their ad ventures, eit
 
 Adventuring hirelings will demand at least a half-share of treasure in addition to their daily pay and will undertake no risks that their employers don’t share. Their combat statistics will be as normal for their type, usually equal to a common human soldier for most. After a particularly dangerous adventure, the hireling must make a Morale check; on a failure, they decide the adventuring life is too risky and leave the group. 
 
-On the rare occasions that a mage can be found willing to hire out their services, their skills almost never exceed those of a first or second level [[Mage]]. 
+On the rare occasions that a mage can be found willing to hire out their services, their skills almost never exceed those of a first or second level [[Rules/Core/Classes/Mage]]. 
 
 Most communities have a limited number of men and women willing to risk an awful doom while adventuring. If the party makes a habit of returning without their employees, others may refuse to join. 
 

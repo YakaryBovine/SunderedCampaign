@@ -24,7 +24,7 @@ When you advance a character level, you gain an extra skill point which may only
 | 8     | 8d6      | +4           |                  |
 | 9     | 9d6      | +4           |                  |
 | 10    | 10d6     | +5           | +1 Any           
-### Partial [[Mage]]/Partial Expert
+### Partial [[Rules/Core/Classes/Mage]]/Partial Expert
 | Level | Hit Dice | Attack Bonus | Focus Picks      |     |
 | ----- | -------- | ------------ | ---------------- | --- |
 | 1     | 1d6      | +0           | 1 Expert + 1 Any |     |

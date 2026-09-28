@@ -51,6 +51,6 @@ Finally, the PC might be eligible to pick an additional level in a [[Foci|Focus]
 > The rules in the Worlds Without Number SRD mention gaining "bonus skills" from certain Foci. In my campaign, those Foci instead grant 2 skill points, which must be spent towards increasing the relevant skill/s if possible.
 
 ### Learning New Spells and Arts
-[[Mage]] characters capable of spellcasting learn new spells when they advance a level. [[High Mage|High Mages]] and Full [[Invoker|Invokers]] learn two new High Magic spells they are capable of casting. All other spellcasting mages learn one spell they can cast, either from High Magic or their own specialist spells. 
+[[Rules/Core/Classes/Mage]] characters capable of spellcasting learn new spells when they advance a level. [[High Mage|High Mages]] and Full [[Invoker|Invokers]] learn two new High Magic spells they are capable of casting. All other spellcasting mages learn one spell they can cast, either from High Magic or their own specialist spells. 
 
 Mages who use arts may also gain a new art pick, depending on their class. Each such class has a table that lists the schedule for gaining new arts.

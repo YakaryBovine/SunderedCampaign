@@ -21,7 +21,7 @@ Each character starts has scores in [[Attributes|Strength, Dexterity, Constituti
 ### 2. Record your Attribute Modifiers
 Mark down your [[Attributes#Attribute Modifiers|Attribute Modifiers]] for each score. When rolling dice that are affected by an attribute, you don’t apply the whole score; instead, you apply the attribute modifier. A score of 3 is a -2, 4–7 is a -1, 8–13 is no modifier, 14–17 is +1, and 18 is +2.
 ### 3. Choose a Class
-Choose your class from the Classes, representing those talents you have that are most relevant to an adventurer’s lifestyle. If your hero isn’t well-described by [[Warrior]], [[Expert]], or [[Mage]], you can choose [[Adventurer]] and mix classes.
+Choose your class from the Classes, representing those talents you have that are most relevant to an adventurer’s lifestyle. If your hero isn’t well-described by [[Warrior]], [[Expert]], or [[Rules/Core/Classes/Mage]], you can choose [[Adventurer]] and mix classes.
 ### 4. Choose your Foci
 Choose your [[Foci]], representing the side talents or particular specializations of your hero. You can pick one level of a Focus of your choice. Characters with the Expert class or the Partial Expert feature of the Adventurer class get one level of a non-combat Focus for free in addition to this. T hey can spend both levels on the same Focus, starting with level 2 in it if they wish. Characters with the Warrior class or Partial Warrior feature of the Adventurer class can do the same in choosing one level of a combat-related Focus.
 ### 5. (Optional) Choose your racial Foci
@@ -33,7 +33,7 @@ You can spend as many of these points as you like to increase any of your [[Skil
 ### 7. (Conditional) Choose your starting spells
 If you’re a full [[High Mage]], [[Elementalist]], or [[Necromancer]], or a [[Adventurer|Partial]] in two of these, choose four starting spells from your class’ first level spell list. Partial Mages of these classes pick only two. Re cord these on the back of your sheet.
 ### 8. Record your hit points
-Roll your maximum hit points and add your [[Attributes|Constitution]] modifier, to a minimum of 1 hit point. The die you roll depends on the class you chose. [[Warrior|Warriors]] roll 1d6+2, [[Expert|Experts]] roll 1d6, and [[Mage|Mages]] roll 1d6-1. [[Adventurer|Adventurers]] use the tables on page 21, depending on which partial classes they took. If you lose all your hit points, your PC will be [[Injury, Healing, and System Strain|mortally wounded or slain outright]].
+Roll your maximum hit points and add your [[Attributes|Constitution]] modifier, to a minimum of 1 hit point. The die you roll depends on the class you chose. [[Warrior|Warriors]] roll 1d6+2, [[Expert|Experts]] roll 1d6, and [[Rules/Core/Classes/Mage|Mages]] roll 1d6-1. [[Adventurer|Adventurers]] use the tables on page 21, depending on which partial classes they took. If you lose all your hit points, your PC will be [[Injury, Healing, and System Strain|mortally wounded or slain outright]].
 ### 9. Record base attack bonus
 Note down any base attack bonus you may have. This will vary based on your class; check your class article to see what your hero's basic martial aptitude might be.
 ### 10. Choose an equipment package

@@ -6,7 +6,7 @@ This much time is sufficient to find most major points of interest that the GM m
 ## Supplies for an Expedition
 When venturing into the untamed wilderness, a group is going to need certain supplies. Fire, water, shelter, and food are the four most critical. In some places, some of these supplies may be easily acquired along the way, such as fresh water from a river the PCs are following, or shelter when the climate is warm and pleasant around the clock, but usually some kind of provision will need to be made for getting them. 
 
-**Food** is measured in days of food per person. Each day’s needed food counts as one item of encumbrance, though they can be packed snugly together as weekly rations that count as four items instead. Some magical items or [[Mage|Mages]] might be able to create food; a party who relies entirely on such things had best hope nothing happens to their literal meal ticket. 
+**Food** is measured in days of food per person. Each day’s needed food counts as one item of encumbrance, though they can be packed snugly together as weekly rations that count as four items instead. Some magical items or [[Rules/Core/Classes/Mage|Mages]] might be able to create food; a party who relies entirely on such things had best hope nothing happens to their literal meal ticket. 
 
 **Water** is also measured in days of water per person, each unit counting as one item of encumbrance. Exceptionally hot or dry climates may require multiples of this to avoid dehydration or over heating. 
 
