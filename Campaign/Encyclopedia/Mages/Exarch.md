@@ -4,4 +4,7 @@ Being possessed of a Celestial grants an Exarch an intuitive ability to employ [
 
 Exarchs are extraordinarily rare. When they do arise, they typically go on to have a profound impact on the world.
 
+> [!NOTE] Exarchs in Worlds Without Number
+> In Worlds Without Number, an Exarch would be best represented by the [[Blood Priest]] class, or a homebrew class built upon it with a different theming.
+
 The actual use of the term "Exarch" is practically unheard of outside of scholarly circles. Typically, an Exarch would be merely thought of as a "hero" or "chosen one", or might be more closely associated with the military tradition they hail from, such as the samurais or paladins.
