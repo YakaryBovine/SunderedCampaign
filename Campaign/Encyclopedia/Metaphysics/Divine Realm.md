@@ -1,0 +1,5 @@
+Floating within the chaotic immaterial matter of the Spirit Realm, there are pockets of material stability known as Divine Realms. Each realm is the home of a God, and has been shaped according to their personal whims - an earnest reflection of their perception of what is good and correct in the world, and thus the ideal representation of their domains.
+
+Most civilizations believe that when a person dies, their immortal souls come to reside in the Divine Realm of whichever God they most revered during their life. What happens during and after that is a matter of some debate. The Urzithans believe that souls enjoy their afterlife for a few thousand years, and are then returned to the cycle. The Stalrad believe that the afterlife is a straightforwardly worse experience than simply ceasing to exist, and they don't believe there is a cycle at all; luckily for them, their atheism denies them access to an afterlife.
+
+Gods have omniscience and near-omnipotence over what happens in their own Realm, though as usual their will to act in certain ways is limited by their own natures.

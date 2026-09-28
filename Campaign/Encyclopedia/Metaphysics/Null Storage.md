@@ -1,0 +1,5 @@
+Null Storage is the [[Divine Realm]] of [[Skofnildr]]. As a representation of his endless desire to acquire and preserve mundane trinkets, it is essentially an infinitely sized storage closet for Skofnildr's personal collection. The accumulated technologies in Null Storage line the floor, and piles of them form facsimiles of mountains and chasms. Despite the infinity, Null Storage has a center, and the closer to the center one travels, they closer they near to Skofnildr's most treasured collections.
+
+Skofnildr's realm was not built for comfort, and makes a remarkably poor afterlife. The very few followers he has incidentally accumulated have all chosen to remain for only a few decades before moving on, with the sole exception of his first follower, who you met during your travels through Null Storage.
+
+At the dead center of Null Storage once lay The Device, a gift from the Triumvirate and Skofnildr's most treasured possession.
