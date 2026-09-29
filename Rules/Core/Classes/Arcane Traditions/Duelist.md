@@ -25,7 +25,7 @@ The arts of the Duelist require agility and free motion. The Duelist cannot bene
 
 **Crushing Superiority:** Your favored weapon gains the Less Lethal quality if it doesn’t already have it. Commit Effort for the scene as an Instant action when you hit a target; they must immediately make an Instinct check. This ability can be used only once per scene on any given target. 
 
-**Dauntless Step:** Commit Effort for the scene as an On Turn action. The [[Action Types#Move Actions]] you make for the rest of the round can cross vertical surfaces or difficult terrain at your full normal movement rate, provided you end the round standing upright on a surface that can bear your weight. 
+**Dauntless Step:** Commit Effort for the scene as an On Turn action. The [[Action Types#Move Actions|Move actions]] you make for the rest of the round can cross vertical surfaces or difficult terrain at your full normal movement rate, provided you end the round standing upright on a surface that can bear your weight. 
 
 **Dodge Doom:** Commit Effort for the day as an Instant action when caught in some explosion or other burst effect. You take half damage, or no damage if the effect allows a save and you succeed at it. You can move yourself up to ten feet away from your original location, provided the new location is behind cover or away from the blast’s point of origin. 
 
