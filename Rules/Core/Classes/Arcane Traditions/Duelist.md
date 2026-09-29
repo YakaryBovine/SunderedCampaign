@@ -1,4 +1,7 @@
 Some warriors indulge in unique training methods that draw on arcane forces to enhance their speed and agility.
+
+> [!important] Sundered
+> In the [[Sundered]] universe, the Duelist can represent any character who uses magic to enhance their physical abilities; they could be drawing from [[Divine]] sources as an [[Exarch]], or perhaps from Arcane sources as a Wizard. There are other possibilities.
 ## Benefits
 The Duelist is a partial [[Mage]] class, meant to be taken by an [[Adventurer]] in conjunction with another partial class. Partial [[Warrior]]/Duelist is the most common pairing, for a skilled light-armor combatant with high mobility and a number of useful combat techniques. Partial [[Expert]]/Duelist might represent an assassin who relies on stealth as much as steel, while a rare few Mage/Duelist combinations speak of adventuring wizards who perhaps have more talent for the sword than for the spell.
 
@@ -41,3 +44,18 @@ The arts of the Duelist require agility and free motion. The Duelist cannot bene
 **Unbindable:** Commit Effort for the day as an On Turn action whenever you wish to escape chains, grapples, shackles, ropes, or even a magical spell of physical binding. You automatically wriggle free from mundane restraints and gain an Evasion [[Saving Throws|saving throw]] to instantly end a physical magical binding of some sort. You can use this art only once per round. 
 
 **Unworthy Rabble:** Commit Effort for the day as an On Turn action. For the rest of the scene, when using your favored weapon, reroll any failed hit roll against foes with one hit die. At eighth level, this ability applies to foes with two hit dice.
+
+**Whirling Evasion:** Your base Armor Class becomes equal to 13 plus half your level, rounded up. This AC can be modified by small shields and your Dexterity modifier, but not by armor or large shields.
+## Arts Progression
+| Level | Favored Weapon Bonus | Arts Gained                |
+| ----- | -------------------- | -------------------------- |
+| 1     | +1                   | Favored Weapon and Any One |
+| 2     | +1                   | Any One                    |
+| 3     | +2                   |                            |
+| 4     | +2                   | Any One                    |
+| 5     | +3                   | Any One                    |
+| 6     | +3                   | Any One                    |
+| 7     | +4                   |                            |
+| 8     | +4                   | Any One                    |
+| 9     | +5                   |                            |
+| 10    | +5                   | Any One                    |
